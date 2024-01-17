@@ -1,0 +1,6 @@
+[submodule "konva-xmind"]
+	path = konva-xmind
+	url = https://github.com/xingBaGan/konva-xmind
+[submodule "packages/nestjs-websocket-demo"]
+	path = packages/nestjs-websocket-demo
+	url = https://github.com/xingBaGan/nestjs-websocket-demo
